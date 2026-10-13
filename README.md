@@ -26,3 +26,7 @@ This project can be deployed using Netlify with:
 
 - Build command: `npm run build`
 - Publish directory: `dist/`
+
+-  ## 👤 Author
+   Abhaypratap Sikarwar
+   [LinkedIn](https://www.linkedin.com/in/abhaypratap-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app) | [Portfolio 2](https://abhaysikarwar326.netlify.app)
